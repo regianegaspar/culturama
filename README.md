@@ -1,5 +1,5 @@
 <h1 align="center">Culturama</h1>
-<h2>Projeto finalizado</h2>
+<p align="center">Projeto finalizado</p>
 
 
 
@@ -10,9 +10,9 @@
 </p>
 <br>
 
-<!-- <p align="center">
-<img alt="" src="" width="100%">
-</p> -->
+<p align="center">
+<img alt="Imagem do projeto" src="https://github.com/regianegaspar/culturama/blob/main/assets/img/projeto.JPG?raw=true" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -28,7 +28,7 @@ Projeto realizado durante curso da Alura: Particando CSS: Grid e Flexbox.
 Nele pude estudar um pouco mais sobre Flexbox e Grid, além de aplicar o conceito em telas responsivas.
 
 
-<!-- -[Visite o projeto online](site aqui) -->
+[Visite o projeto online](https://regianegaspar.github.io/culturama/)
 
 
 ## 📝 Licença
