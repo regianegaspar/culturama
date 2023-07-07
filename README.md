@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-<img alt="Imagem do projeto" src="https://github.com/regianegaspar/culturama/blob/main/assets/img/projeto.JPG?raw=true" width="100%">
+<img alt="Imagem do projeto culturama" src="https://github.com/regianegaspar/culturama/blob/main/assets/img/projeto.JPG?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
